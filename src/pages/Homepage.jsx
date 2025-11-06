@@ -1,5 +1,5 @@
 import React from 'react'
-import '../css/Homepage.css'
+import '../css/homepage.css'
 import Topbar from '../components/Topbar'
 
 export default function Homepage() {
