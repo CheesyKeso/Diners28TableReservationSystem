@@ -7,7 +7,7 @@ export default function Homepage() {
     <div className="homepage">
       <Topbar />
       <header className="hp-header">
-        <h1>Diners28 Table Reservation</h1>
+        <h1>Diner 28 Table Reservation</h1>
         <p className="hp-subtitle">Reserve your table quickly and easily.</p>
       </header>
 
